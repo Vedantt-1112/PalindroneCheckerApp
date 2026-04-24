@@ -1,7 +1,4 @@
-/**
- * @author Kuljot
- * @version 5.0
- */
+
 import java.util.Deque;
 import java.util.ArrayDeque;
 
