@@ -1,7 +1,3 @@
-/**
- * @author Kuljot
- * @version 8.0
- */
 
 public class PalindromeCheckerApp {
 
