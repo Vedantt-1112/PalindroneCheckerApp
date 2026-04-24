@@ -1,7 +1,4 @@
-/**
- * @author Kuljot
- * @version 3.0
- */
+
 public class PalindromeCheckerApp {
 
     public static void main(String[] args) {
