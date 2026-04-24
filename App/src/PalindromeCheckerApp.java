@@ -1,7 +1,4 @@
-/**
- * @author Kuljot
- * @version 5.0
- */
+
 import java.util.Stack;
 import java.util.Queue;
 import java.util.LinkedList;
